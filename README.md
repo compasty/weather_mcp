@@ -5,5 +5,4 @@
 # 使用
 
 1. 创建配置文件: `cp cp .env.example .env`, 并填写相关配置信息
-2. 启动服务端程序: `uv weather.py`(请确保已安装uv环境)
-
+2. 启动客户端程序: `uv run client.py weather.py`(请确保已安装uv环境)
